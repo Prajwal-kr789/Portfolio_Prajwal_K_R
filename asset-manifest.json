@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio_Prajwal_K_R2/static/css/main.6925cd24.css",
-    "main.js": "/Portfolio_Prajwal_K_R2/static/js/main.ee983a13.js",
-    "static/js/592.6d7de513.chunk.js": "/Portfolio_Prajwal_K_R2/static/js/592.6d7de513.chunk.js",
-    "static/media/Dev_Image (2).png": "/Portfolio_Prajwal_K_R2/static/media/Dev_Image (2).a4797aff635cb990309c.png",
-    "static/media/IMG_20240206_195126 (1).jpg": "/Portfolio_Prajwal_K_R2/static/media/IMG_20240206_195126 (1).1173f93b26d4568f4170.jpg",
-    "static/media/logo.svg": "/Portfolio_Prajwal_K_R2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Portfolio_Prajwal_K_R2/index.html",
-    "main.6925cd24.css.map": "/Portfolio_Prajwal_K_R2/static/css/main.6925cd24.css.map",
-    "main.ee983a13.js.map": "/Portfolio_Prajwal_K_R2/static/js/main.ee983a13.js.map",
-    "592.6d7de513.chunk.js.map": "/Portfolio_Prajwal_K_R2/static/js/592.6d7de513.chunk.js.map"
+    "main.css": "/Portfolio_Prajwal_K_R/static/css/main.6925cd24.css",
+    "main.js": "/Portfolio_Prajwal_K_R/static/js/main.b8de2361.js",
+    "static/js/592.6d7de513.chunk.js": "/Portfolio_Prajwal_K_R/static/js/592.6d7de513.chunk.js",
+    "static/media/Dev_Image (2).png": "/Portfolio_Prajwal_K_R/static/media/Dev_Image (2).a4797aff635cb990309c.png",
+    "static/media/IMG_20240206_195126 (1).jpg": "/Portfolio_Prajwal_K_R/static/media/IMG_20240206_195126 (1).1173f93b26d4568f4170.jpg",
+    "static/media/logo.svg": "/Portfolio_Prajwal_K_R/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio_Prajwal_K_R/index.html",
+    "main.6925cd24.css.map": "/Portfolio_Prajwal_K_R/static/css/main.6925cd24.css.map",
+    "main.b8de2361.js.map": "/Portfolio_Prajwal_K_R/static/js/main.b8de2361.js.map",
+    "592.6d7de513.chunk.js.map": "/Portfolio_Prajwal_K_R/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6925cd24.css",
-    "static/js/main.ee983a13.js"
+    "static/js/main.b8de2361.js"
   ]
 }
